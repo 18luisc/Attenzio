@@ -25,7 +25,7 @@
         <mxCell id="ET4mKvIEI5imarmwZvSH-7" value="CorreoElectronico VARCHAR(200)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ET4mKvIEI5imarmwZvSH-2" vertex="1">
           <mxGeometry y="190" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="doxV-q-uLm9k6LGpHwTZ-12" value="Rol" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ET4mKvIEI5imarmwZvSH-2">
+        <mxCell id="doxV-q-uLm9k6LGpHwTZ-12" value="Rol INTEGER" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ET4mKvIEI5imarmwZvSH-2">
           <mxGeometry y="230" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ET4mKvIEI5imarmwZvSH-18" value="PROFESOR" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
