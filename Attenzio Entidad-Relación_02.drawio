@@ -89,10 +89,10 @@
         <mxCell id="InTDDSVPD--su6Mw10KX-16" value="&lt;u&gt;IDUsuario&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="InTDDSVPD--su6Mw10KX-17" value="&lt;u&gt;IdEstudiante&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="InTDDSVPD--su6Mw10KX-17" value="&lt;u&gt;IDEstudiante&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="260" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="InTDDSVPD--su6Mw10KX-18" value="&lt;u&gt;IDprofesor&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="InTDDSVPD--su6Mw10KX-18" value="&lt;u&gt;IDProfesor&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="360" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="InTDDSVPD--su6Mw10KX-20" value="Direccion_&lt;div&gt;residencia&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -148,7 +148,7 @@
         <mxCell id="InTDDSVPD--su6Mw10KX-55" value="Latitud" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="1190" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="InTDDSVPD--su6Mw10KX-56" value="&lt;u&gt;IDasistencia&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="InTDDSVPD--su6Mw10KX-56" value="&lt;u&gt;IDAsistencia&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="970" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="InTDDSVPD--su6Mw10KX-73" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="InTDDSVPD--su6Mw10KX-66" target="InTDDSVPD--su6Mw10KX-7" edge="1">
@@ -160,7 +160,7 @@
         <mxCell id="InTDDSVPD--su6Mw10KX-71" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="InTDDSVPD--su6Mw10KX-67" target="InTDDSVPD--su6Mw10KX-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="InTDDSVPD--su6Mw10KX-67" value="&lt;u&gt;IDpregunta&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="InTDDSVPD--su6Mw10KX-67" value="&lt;u&gt;IDPregunta&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="1530" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="InTDDSVPD--su6Mw10KX-77" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
@@ -276,7 +276,7 @@
         <mxCell id="pCD0jgpHs92SvYQqpGJX-9" value="SESION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pCD0jgpHs92SvYQqpGJX-10" value="&lt;u&gt;ID_Sesion&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pCD0jgpHs92SvYQqpGJX-10" value="&lt;u&gt;IDSesion&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="1000" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pCD0jgpHs92SvYQqpGJX-11" value="Material_clase" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
